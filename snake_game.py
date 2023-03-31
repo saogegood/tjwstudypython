@@ -98,7 +98,7 @@ while True:
 
     pygame.draw.rect(screen, red, pygame.Rect(food_pos[0], food_pos[1], food_size, food_size))
 
-    # 更新显示
+    # 更新显示 1
     pygame.display.flip()
 
     # 控制游戏速度
